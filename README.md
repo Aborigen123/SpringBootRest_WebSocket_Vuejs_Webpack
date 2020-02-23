@@ -1,2 +1,2 @@
-h1 Spring boot REST with WebSocket and Webpack
+Spring boot REST with WebSocket and Webpack
 =====================
